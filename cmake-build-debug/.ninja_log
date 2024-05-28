@@ -1,0 +1,13 @@
+# ninja log v5
+483	545	1716885856360104320	untitled3	45a9823829eea32b
+1	362	1716889438290097765	CMakeFiles/clinic_management_system.dir/ClinicManagementSystem.cpp.o	e758651bb0a0d501
+257	478	1716885856292105176	CMakeFiles/untitled3.dir/Patient.cpp.o	65b0d044cb4e71b7
+1	341	1716889438270097485	CMakeFiles/clinic_management_system.dir/Patient.cpp.o	3df56822800dff94
+0	337	1716889438266097429	CMakeFiles/clinic_management_system.dir/main.cpp.o	ed0db8b5184d00f1
+559	610	1716889438538101228	clinic_management_system	deb5a88acfc9c827
+253	483	1716885856300105076	CMakeFiles/untitled3.dir/Appointment.cpp.o	798116c783599857
+341	559	1716889438486100501	CMakeFiles/clinic_management_system.dir/Billing.cpp.o	defe4691f910ace5
+0	257	1716885856072107948	CMakeFiles/untitled3.dir/main.cpp.o	5a2f469629e1841
+3	252	1716885856068107999	CMakeFiles/untitled3.dir/Billing.cpp.o	bb5bd8a2052128e9
+337	548	1716889438478100390	CMakeFiles/clinic_management_system.dir/Appointment.cpp.o	8797d418827fcb25
+1	270	1716885856084107797	CMakeFiles/untitled3.dir/ClinicManagementSystem.cpp.o	c3f0e6c135b950e0
