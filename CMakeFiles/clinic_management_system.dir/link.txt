@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/clinic_management_system.dir/main.cpp.o CMakeFiles/clinic_management_system.dir/ClinicManagementSystem.cpp.o CMakeFiles/clinic_management_system.dir/Patient.cpp.o CMakeFiles/clinic_management_system.dir/Appointment.cpp.o CMakeFiles/clinic_management_system.dir/Billing.cpp.o -o clinic_management_system 
